@@ -1,0 +1,13 @@
+Table of Contents (description of files and what to read first in my opinion)
+    1. Presentation
+        This is the presentation notebook that I displayed in class and contains all of the questions and base code. It also contains
+        the interact graphs and static images to answer the base questions.
+    2. Project 1
+        This is the notebook where I got my base equations working and it only contains the equations and interact graph for the
+        retrograde passage.
+    3. Equation_Sheet
+        This is the text file that I made to house all of the equations necessary to do every part of the code and it is called in 
+        each notebook containing code for this project. 
+    4. GalaxyMergers
+        I included this file as the base assignment prompt even though it is not strictly necessay
+    
